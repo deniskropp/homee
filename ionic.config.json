@@ -1,0 +1,8 @@
+{
+  "name": "Homee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6f0e0d53"
+}
